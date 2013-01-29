@@ -1,7 +1,7 @@
-Test-Git
+Projet Java
 ========
 
-Projet Java Exia 2eme Année.
+Projet Java Exia 2eme Annee.
 
-Code propriétaire.
+Code proprietaire.
 

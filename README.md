@@ -1,8 +1,7 @@
 Test-Git
 ========
 
-fzrhjtkyluy
+Projet Java Exia 2eme Année.
 
-Enculez vos races
+Code propriétaire.
 
-Sucez des bites de juif
